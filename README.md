@@ -33,7 +33,7 @@ energy-analysis
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/energy-analysis.git
+   git clone https://github.com/miraccozcan/energy-analysis.git
    cd energy-analysis
    ```
 
