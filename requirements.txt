@@ -4,3 +4,5 @@ matplotlib
 seaborn
 plotly
 openpyxl
+
+pip install -r requirements.txt
