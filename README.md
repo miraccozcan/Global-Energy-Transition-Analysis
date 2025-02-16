@@ -62,9 +62,9 @@ energy-analysis
 
 ## Dependencies
 
-- `pandas` - For data handling
-- `numpy` - For numerical operations
-- `matplotlib` - For plotting
-- `seaborn` - For statistical visualization
-- `plotly` - For interactive charts
-- `openpyxl` - For reading Excel files
+- `pandas` 
+- `numpy` 
+- `matplotlib` 
+- `seaborn` 
+- `plotly` 
+- `openpyxl`
